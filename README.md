@@ -80,6 +80,7 @@ graph TD
 
 ## ⚠️ 注意事项
 
+- **模型依赖**：**Agent 的任务完成能力高度取决于底层多模态大模型的能力**。建议使用对界面理解（UI Perception）和指令遵循（Instruction Following）优化过的模型。
 - **安全性**：本工具涉及对电脑的直接控制，执行涉及金融、隐私等敏感操作时请务必谨慎并开启 `confirm_sensitive` 模式。
 - **系统权限**：在 macOS 上运行需要授予终端/IDE "辅助功能 (Accessibility)" 和 "屏幕录制 (Screen Recording)" 权限。
 - **分辨率**：建议在单一显示器环境下使用，多显示器适配目前处于实验阶段。
