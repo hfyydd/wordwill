@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://apple.com)
 
-**WordWill** 是 [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM.git) 的 PC 端迁移版本，专为桌面端环境进行深度适配。它利用多模态大模型（如 AutoGLM-Phone-9B 转化版或同类能力模型）实现对桌面操作系统的自主控制，将原本在手机端的“点击、滑动、输入”等原子操作无缝平移至键盘鼠标环境。
+**WordWill** 是 [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM.git) 的 PC 端迁移版本，专为桌面端环境进行深度适配。它利用多模态大模型（如 glm-4.6v 或同类能力模型）实现对桌面操作系统的自主控制，将原本在手机端的“点击、滑动、输入”等原子操作无缝平移至键盘鼠标环境。
 
 ---
 
